@@ -30,7 +30,7 @@ This project performs Exploratory Data Analysis (EDA) on a real-world dataset fr
 ## 📂 Dataset
 
 - **Name**: `Online Retail.xlsx`
-- **Source**: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/online+retail) *(or Coursera-provided data)*
+- **Source**: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/online+retail) 
 - **Fields**:
   - `InvoiceNo`: Invoice number
   - `StockCode`: Product/item code
