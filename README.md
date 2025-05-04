@@ -83,7 +83,7 @@ This project performs Exploratory Data Analysis (EDA) on a real-world dataset fr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Suraj-Rapeti/online-retail-eda.git
+   git clone https://github.com/Suraj-Rapeti/Online-Retail-EDA-Project.git
    cd online-retail-eda
 2. Install dependencies:
    pip install pandas numpy matplotlib seaborn openpyxl
